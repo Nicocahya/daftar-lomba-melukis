@@ -2,7 +2,10 @@
 
 JUARA1 Raya
   -nilai rata" 98,5
+  *Hadiah juara1 sebesar 2.000.000.00
 Juara2 Tono
   -nilai rata" 97,8
+  **Hadiah juara1 sebesar 1.500.000.00
 Juara3 Yanto
   -nilai rata" 97,2
+  *Hadiah juara1 sebesar 1.000.000.00
