@@ -1,7 +1,6 @@
---/daftar lomba catur/--
-1. Tono
-2. Bambang
-3. Citra
-4. Yanto
-5. Raya
-6. Dika
+daftar-lomba-voli
+--/daftar lomba voli/--
+1. Team Perkasa
+2. Team ivong
+3. Team istana buah
+4. Team voreta
