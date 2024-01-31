@@ -1,0 +1,8 @@
+--/PEMENANG LOMBA MELUKIS/--
+
+JUARA1 Raya
+  -nilai rata" 98,5
+Juara2 Tono
+  -nilai rata" 97,8
+Juara3 Yanto
+  -nilai rata" 97,2
