@@ -2,6 +2,8 @@
 JUARA1 Perkasa
   *Hadiah juara1 sebesar 2.000.000.00
 Juara2 istana buah
-  **Hadiah juara1 sebesar 1.500.000.00
+  *Hadiah juara2 sebesar 1.500.000.00
 Juara3 ivong
-  *Hadiah juara1 sebesar 1.000.000.00
+  *Hadiah Juara3 sebesar 1.000.000.00
+Juara4 Pansela
+  *Hadiah Juara4 sebesar 750.000.00
